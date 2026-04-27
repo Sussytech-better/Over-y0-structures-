@@ -1,0 +1,8 @@
+name: OverY0Structures
+main: com.sussytech.overy0structures.OverY0StructuresPlugin
+version: 1.0.0
+api-version: 1.21
+author: Sussytech
+softdepend:
+  - Paper
+description: Moves structures spawning below y=0 to y=0 on Paper servers.
